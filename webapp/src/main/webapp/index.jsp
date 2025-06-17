@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!! Saidemy DevOps Student Registration!</h1>
+    <h1>Welcome!! Venky Portal Registration!</h1>
     <p>Please fill in this form!</p>
     <hr>
     <br>
@@ -35,6 +35,10 @@
 
     <label for="Sister name"><b>Sister Name</b></label>
     <input type="text" placeholder="Enter Sister Name" name="sister name" id="sister name" required>
+    <br>
+
+    <label for="Son name"><b>Son Name</b></label>
+    <input type="text" placeholder="Enter Son Name" name="son name" id="son name" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
